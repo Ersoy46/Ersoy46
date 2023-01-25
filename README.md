@@ -11,7 +11,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=eertugrulersoy@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ertugrul-ersoy/)
 
-<img src="https://github.com/islamoktay/islamoktay/blob/main/ss.png?raw=true">
+<img src="https://github.com/Ersoy46/Ersoy46/blob/main/ss.jpeg?raw=true">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ersoy46&layout=compact&theme=merko" />
 
 
