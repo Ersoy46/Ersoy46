@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
--  🏆  Flutter SDK, Dart Programming Language, SQL, GIT.
--  👯  Enthusiastic Mobile App Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
+-  🏆  Selenium,Java, SQL, GIT.
+-  👯  Enthusiastic Software Test Engineer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
 -  📝  Believes in the importance of learning new things every day. 
 -  💬 Please feel free to reach out if you have any questions or suggestions.
 -  😄 You can show some   ❤️  &nbsp; by starring some of the repositories
