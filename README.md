@@ -2,8 +2,8 @@
 
 ### Hi there! I am Ertuğrul Ersoy 👋
 
--  🙋‍♀️ I'm Full Stack Automation Engineer. I'm working on a project with framework TestNG and Cucumber BDD. I have experience with Agile Methodology, Black Testing, Core Java, Selenium WebDriver, Git/Github, Jira-Xray, API/Postman, and Jenkins.
--  👯  Enthusiastic Software Test Engineer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
+-  🙋🏻 I'm Full Stack Automation Engineer. I'm working on a project with framework TestNG and Cucumber BDD. I have experience with Agile Methodology, Black Testing, Core Java, Selenium WebDriver, Git/Github, Jira-Xray, API/Postman, and Jenkins.
+-  👨🏻‍💻Enthusiastic Software Test Engineer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
 -  📝  Believes in the importance of learning new things every day. 
 -  💬 Please feel free to reach out if you have any questions or suggestions.
 -  😄 You can show some   ❤️  &nbsp; by starring some of the repositories
